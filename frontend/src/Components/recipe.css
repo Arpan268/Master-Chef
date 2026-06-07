@@ -1,0 +1,25 @@
+.recipe {
+    line-height: 28px;
+    font-size: 1.125rem;
+    font-weight: 400;
+    color: #4a4a4a;
+}
+
+.recipe ul li, .recipe ol li {
+    margin-bottom: 8px;
+}
+
+.recipe h2.suggested-recipe {
+    color: #000000;
+    margin-bottom: 20px;
+}
+
+.recipe ul, .recipe ol {
+    margin-bottom: 15px;
+}
+
+.recipe h2, .recipe h3, .recipe h1 {
+    color: #000000;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}

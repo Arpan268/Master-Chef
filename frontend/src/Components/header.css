@@ -1,0 +1,19 @@
+.logo {
+    width: 45px;
+    height: 30px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    opacity: 0.8;
+}
+
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    border-bottom: 1px solid #ccc;
+}
+
+h2 {
+    opacity: 0.8;
+}
